@@ -1,5 +1,5 @@
-## Weather monitoring application
+# Weather monitoring application
 Realization for weather conditions monitoring using OpenWeatherMap API
 
-### Features
+## Features
 Coming soon
